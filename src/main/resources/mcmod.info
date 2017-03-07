@@ -1,0 +1,16 @@
+[
+{
+  "modid": "liferaft",
+  "name": "jtrent238's Life Raft Mod",
+  "description": "Add life rafts to minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jtrent238"],
+  "credits": "jtrent238",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
